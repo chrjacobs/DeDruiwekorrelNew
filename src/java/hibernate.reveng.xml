@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-reverse-engineering PUBLIC "-//Hibernate/Hibernate Reverse Engineering DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-reverse-engineering-3.0.dtd">
+<hibernate-reverse-engineering>
+  <schema-selection match-catalog="dedruiwekorrelnew"/>
+  <table-filter match-name="receptentbl"/>
+  <table-filter match-name="wijntypetbl"/>
+  <table-filter match-name="druiftbl"/>
+  <table-filter match-name="fototbl"/>
+  <table-filter match-name="wijntbl"/>
+  <table-filter match-name="wijnhuistbl"/>
+</hibernate-reverse-engineering>
